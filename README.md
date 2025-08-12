@@ -257,3 +257,9 @@ Explore the granular details of every trip taken in June 2024 in the **Details**
 
 ![Detailed Trip Data](https://raw.githubusercontent.com/SamikshaDhas/Uber-analysis/main/Screenshot%202025-08-12%20112409.png)
 
+
+## 📄 Problem Statement
+You can view the full problem statement here:  
+[Problem Statement (Word Doc)](https://github.com/SamikshaDhas/Uber-analysis/blob/main/Problem%20Statement%20(1).docx)
+
+
